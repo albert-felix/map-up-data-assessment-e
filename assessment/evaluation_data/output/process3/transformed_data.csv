@@ -1,0 +1,7 @@
+unit,trip_id,toll_loc_id_start,toll_loc_id_end,toll_loc_name_start,toll_loc_name_end,toll_system_type,entry_time,exit_time,tag_cost,cash_cost,license_plate_cost
+6f9624be-a588-4851-ab33-92e7c733d057,1000_2,130003200,130000000,247 - Harrisburg East,30 - Warrendale,ticketSystem1,2023-12-07T00:18:26Z,2023-12-07T06:08:13Z,108.9,,220.0
+54ff6325-b4f8-47d0-977d-4e8616c72189,2000_0,126005600,126002400,18E - Lincoln Tunnel/NJ 3/Secaucus,10 - I-287/Metuchen/Edison Twsp,ticketSystem1,2023-12-09T09:31:26Z,2023-12-09T10:11:11Z,36.02,39.45,
+617e3344-1321-4ddb-b3d2-215a2525749f,2000_1,127004200,127003800,29A - Little Falls,28 - Fultonville,ticketSystem1,2023-12-09T23:06:53Z,2023-12-09T23:53:56Z,6.46,,8.4
+907e09b1-1700-402e-8c8a-229fbe13bb8f,2000_2,126000200,126003200,2 - Swedesboro/Chester,13A - Newark Aprt/Elizabeth Seaport,ticketSystem1,2023-12-10T18:50:33Z,2023-12-10T21:14:13Z,41.86,45.7,
+be269f75-ba8a-4c09-bf6e-1fd95cb8fb06,1000_0,130002600,130000000,226 - Carlisle,30 - Warrendale,ticketSystem1,2023-12-05T23:14:58Z,2023-12-06T04:31:04Z,100.0,,201.8
+d18b972b-7992-468b-9b73-b9415a95e305,1000_1,126003200,126003000,13A - Newark Aprt/Elizabeth Seaport,13 - I-278/Eliz/Goethals/Verrazano,ticketSystem1,2023-12-08T10:32:41Z,2023-12-05T14:05:57Z,3.03,3.65,
